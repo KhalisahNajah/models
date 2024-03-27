@@ -1,0 +1,11 @@
+Model Information:
+* title:	Angela jumping
+* source:	https://sketchfab.com/3d-models/angela-jumping-9f4bd352af724ad88e6d89255e9c2266
+* author:	sipna_deshmukh (https://sketchfab.com/sipna_deshmukh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Angela jumping" (https://sketchfab.com/3d-models/angela-jumping-9f4bd352af724ad88e6d89255e9c2266) by sipna_deshmukh (https://sketchfab.com/sipna_deshmukh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
